@@ -1,13 +1,13 @@
 👋 Hi, I’m Ashish Trivedi
 
 Senior Data Engineer | AI-First Data Platforms | MLOps & LLM Systems
-📍 India | 🌍 Building scalable, production-grade data & AI systems
+📍 **India** | 🌍 **Building scalable, production-grade data & AI systems**
 
 I’m a seasoned Data Engineer (10+ years) with deep expertise in designing, building, and operating large-scale data platforms—now focused on AI-driven systems, LLM applications, and MLOps.
 
 My work sits at the intersection of data engineering, applied AI, and platform reliability, helping organizations move from raw data → intelligence → business impact.
 
-🚀 Current Focus Areas
+🚀 **Current Focus Areas**
 
 LLM Systems: RAG architectures, vector databases, prompt-to-SQL, AI-driven analytics
 
@@ -17,7 +17,7 @@ MLOps & DevOps: Model serving, CI/CD, Kubernetes-based deployments
 
 AI Product Enablement: Turning AI prototypes into production-ready systems
 
-🧠 What I Bring to the Table
+🧠 **What I Bring to the Table**
 
 End-to-end data pipeline architecture (batch + streaming)
 
@@ -31,7 +31,7 @@ Operational excellence: observability, cost optimization, reliability
 
 Strong bias toward clean architecture, maintainability, and scalability
 
-🛠️ Core Skills & Expertise
+🛠️ **Core Skills & Expertise**
 Data Engineering
 
 Large-scale ETL pipeline design & orchestration
@@ -60,21 +60,21 @@ Cloud-native deployments (Kubernetes-ready)
 
 Model & data versioning, serving, and monitoring
 
-⚙️ Technical Toolbox
+⚙️ **Technical Toolbox**
 
-Languages
+**Languages**
 
 Python, SQL
 
-Data & AI Stack
+**Data & AI Stack**
 
 Databricks, PySpark, MLflow
 
-Vector DBs (Pinecone-style architectures)
+**Vector DBs** (Databricks Vector Search)
 
 LLM frameworks (LangChain-based patterns)
 
-Cloud Platforms
+**Cloud Platforms**
 
 AWS, Azure, Databricks
 
@@ -82,11 +82,11 @@ DevOps & MLOps
 
 Docker, CI/CD, Kubernetes (deployment-ready mindset)
 
-Visualization & Apps
+**Visualization & Apps**
 
 Streamlit, Matplotlib, Seaborn
 
-📌 What You’ll Find on My GitHub
+📌 **What You’ll Find on My GitHub**
 
 Production-oriented data & AI projects
 
@@ -96,7 +96,7 @@ Clean, modular, enterprise-ready codebases
 
 Focus on real-world problems, not toy examples
 
-📫 Let’s Connect
+📫 **Let’s Connect**
 
 📧 Email: imashisht@gmail.com
 
